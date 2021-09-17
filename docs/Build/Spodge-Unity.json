@@ -1,0 +1,16 @@
+{
+"companyName": "Techcrafter",
+"productName": "Spodge Unity",
+"productVersion": "1.0",
+"dataUrl": "Spodge-Unity.data.unityweb",
+"wasmCodeUrl": "Spodge-Unity.wasm.code.unityweb",
+"wasmFrameworkUrl": "Spodge-Unity.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
