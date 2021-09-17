@@ -6,7 +6,7 @@ My 3DS homebrew game Spodge, where you have to avoid the flying objects, remade 
 ## [Download the game for free](https://github.com/Techcrafter/Spodge-Unity/releases/latest)
 **Spodge Unity binaries are available for Linux, Windows, Android and WebGL!**
 
-## [Play the game online for free](https://takewake-software.github.io/Spodge-Unity)
+## [Play the game online for free](https://techcrafter.github.io/Spodge-Unity)
 **No download required!**
 
 ## Screenshot
